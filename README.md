@@ -6,7 +6,7 @@ To reproduce issue described in https://github.com/psykolm22/angular-google-plac
 
 2. `npm i`
 
-3 `npm start`
+3. `npm start`
 
 4. Open `dist/my-lib.metadata.json` file.
 
