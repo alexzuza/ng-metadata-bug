@@ -1,4 +1,4 @@
-#Angular reproduction demo
+# Angular reproduction demo
 
 To reproduce issue described in https://github.com/psykolm22/angular-google-place/issues/29#issuecomment-360884843:
 
