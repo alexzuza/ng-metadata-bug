@@ -1,0 +1,20 @@
+{
+  "name": "ng-metadata-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "ngc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@angular/common": "^5.2.2",
+    "@angular/compiler": "^5.2.2",
+    "@angular/compiler-cli": "^5.2.2",
+    "@angular/core": "^5.2.2"
+  },
+  "devDependencies": {
+    "typescript": "^2.5.3"
+  }
+}
