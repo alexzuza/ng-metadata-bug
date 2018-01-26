@@ -12,4 +12,6 @@ To reproduce the issue described in https://github.com/psykolm22/angular-google-
 
 5. You will see that the metadata for `LibDirective` is not correct
 
-``"LibDirective":{"__symbolic":"reference","name":"LibDirective"}``
+```
+"LibDirective":{"__symbolic":"reference","name":"LibDirective"}
+```
