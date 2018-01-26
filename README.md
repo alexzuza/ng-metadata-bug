@@ -15,3 +15,8 @@ To reproduce the issue described in https://github.com/psykolm22/angular-google-
 ```
 "LibDirective":{"__symbolic":"reference","name":"LibDirective"}
 ```
+It should be
+
+```
+"LibDirective":{"__symbolic":"class","decorators":[{"__symbolic":"call","expression":{"__symbolic":"reference","module":"@angular/core","name":"Directive","line":2,"character":1},"arguments":[{"selector":"[myDir]"}]}],"members":{}}
+```
