@@ -10,7 +10,7 @@ To reproduce the issue described in https://github.com/psykolm22/angular-google-
 
 4. Open `dist/my-lib.metadata.json` file.
 
-5. You will see that the metadata for `LibDirective` is not correct
+5. You will see that the metadata for `LibDirective` was reduced to:
 
 ```
 "LibDirective":{"__symbolic":"reference","name":"LibDirective"}
